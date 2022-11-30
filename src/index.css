@@ -11,3 +11,83 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.icecream-image {
+  width:200px;
+  height:220px;
+  padding: 10px;
+}
+
+.d-flex{
+  width: 60%;
+  float:left; 
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  /* background-color: lightcoral; */
+  border-radius: 10px;
+  /* box-shadow: 0 1px 1px #d2d2d2; */
+  padding-top:10px;
+  padding-bottom: 30px;
+  /* margin: 15px 35px 0 50px; */
+  
+}
+
+.left-bar {
+  float:left; 
+  width:10%;
+  display: flex;
+  flex-direction: column;
+  margin: 15px 35px 0 50px;
+  padding: 1px 20px 20px;
+  border: 1px solid #d2d2d2;
+  border-radius: 10px;
+  box-shadow: 0 1px 1px #d2d2d2;
+  justify-content: flex-start;
+  align-items:flex-start;
+
+
+/* 
+  flex-wrap: wrap;
+  justify-content: left; */
+  /* background-color: lightcyan; */
+}
+
+
+.right-bar {
+  width:10%;
+  float:right;
+  /* background-color:lightskyblue; */
+  margin: 15px;
+  /* margin: 15px 35px 0 50px; */
+  /* padding: 25px 20px 0; */
+  /* border: 2px solid #d2d2d2; */
+  border: 1px solid #d2d2d2;
+  margin-right: 5%;
+  border-radius: 10px;
+  box-shadow: 0 1px 1px #d2d2d2;
+}
+
+.favorites {
+  background-color: red;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 15px;
+  border-radius: 5px;
+  border-width: 1px;
+  padding:10px;
+  color:white;
+}
+
+.icecream-item {
+  line-height: 10px;
+  /* background-color:lightblue; */
+  padding:10px;
+  margin: 5px;
+  border-radius: 5px;
+  border-width: 2px;
+  box-shadow: 0 5px 5px #d2d2d2;
+  
+
+
+}

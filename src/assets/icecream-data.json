@@ -1,0 +1,111 @@
+[
+    {
+      "name": "Lemon Sorbet",
+      "category": "fruit",
+      "source": "in-house",
+      "price": 7.99,
+      "image": "images/lemon.jpeg",
+      "popularity": 10,
+      "buttontext": "Add to Favorites"
+    },
+    {
+      "name": "Strawberry",
+      "category": "fruit",
+      "source": "in-house",
+      "price": 4.99,
+      "image": "images/strawberry.jpeg",
+      "popularity": 8,
+      "buttontext": "Add to Favorites"
+    },
+    {
+      "name": "Raspberry",
+      "category": "fruit",
+      "source": "vendors",
+      "price": 5.99,
+      "image": "images/raspberry.jpeg",
+      "popularity": 7,
+      "buttontext": "Add to Favorites"
+    },
+    {
+      "name": "Pineapple",
+      "category": "fruit",
+      "source": "in-house",
+      "price": 3.99,
+      "image": "images/pineapple.jpeg",
+      "popularity": 6,
+      "buttontext": "Add to Favorites"
+    },
+    {
+      "name": "Grapefruit",
+      "category": "fruit",
+      "source": "vendors",
+      "price": 6.99,
+      "image": "images/grapefruit.jpeg",
+      "popularity": 5,
+      "buttontext": "Add to Favorites"
+    },
+    {
+      "name": "Passion Fruit",
+      "category": "fruit",
+      "source": "in-house",
+      "price": 8.99,
+      "image": "images/passionfruit.jpeg",
+      "popularity": 4,
+      "buttontext": "Add to Favorites"
+    },
+    {
+      "name": "Peanut Butter",
+      "category": "custard",
+      "source": "vendors",
+      "price": 3.99,
+      "image": "images/peanut-butter.jpeg",
+      "popularity": 9,
+      "buttontext": "Add to Favorites"
+    },
+    {
+      "name": "Pistachio",
+      "category": "custard",
+      "source": "in-house",
+      "price": 4.99,
+      "image": "images/pistachio.jpeg",
+      "popularity": 8,
+      "buttontext": "Add to Favorites"
+    },
+    {
+      "name": "Vanilla",
+      "category": "custard",
+      "source": "vendors",
+      "price": 5.99,
+      "image": "images/vanilla.jpeg",
+      "popularity": 7,
+      "buttontext": "Add to Favorites"
+    },
+    {
+      "name": "Chocolate",
+      "category": "custard",
+      "source": "in-house",
+      "price": 6.99,
+      "image": "images/chocolate.jpeg",
+      "popularity": 6,
+      "buttontext": "Add to Favorites"
+    },
+    {
+      "name": "Rocky Road",
+      "category": "custard",
+      "source": "vendors",
+      "price": 7.99,
+      "image": "images/rocky-road.jpeg",
+      "popularity": 5,
+      "buttontext": "Add to Favorites"
+    },
+    {
+      "name": "Mint Chip",
+      "category": "custard",
+      "source": "in-house",
+      "price": 6.99,
+      "image": "images/mintchip.jpeg",
+      "popularity": 8,
+      "buttontext": "Add to Favorites"
+    }
+  ]
+  
