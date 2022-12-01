@@ -20,7 +20,7 @@ function App() {
     return icecreamList;
   }
 
-  //Filtering the icecream falvors
+  //Filtering the ice cream falvors
 
   const [filteredIcecream, setFilteredIcecream] = useState(null);
   const [filteredCategory, setFilteredCategory] = useState("all");
@@ -155,7 +155,7 @@ function App() {
   return (
     <div className="App">
       <main>
-        <h1>Dessert Shop</h1> {/* TODO: personalize your bakery (if you want) */}
+        <h1>Dessert Shop</h1> 
         <body>
           <div className="main-content">
             <div className="left-bar">

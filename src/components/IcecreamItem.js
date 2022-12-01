@@ -8,9 +8,7 @@ const IcecreamItem = ({item, addtoFavorites}) => {
         <p><i>Source:</i> {item.source}</p>
         <button className="favorites" onClick={() => addtoFavorites(item)}>{item.buttontext}</button>
       </div>
-
     )
-   
 };
 
 export default IcecreamItem;
